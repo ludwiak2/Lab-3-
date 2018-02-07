@@ -27,7 +27,7 @@ public class Myclass {
         String[] words = line.split("\\s+");
         return words.length;
 
-    }
+     }
 
     public static int specificwordcount (String line , String searchword){
         int counter = 0;
